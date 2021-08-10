@@ -1,0 +1,7 @@
+###
+GET http://localhost:8080/getCards?userId=1 HTTP/1.1
+
+###
+GET http://localhost:8080/getTransactions?cardId=1 HTTP/1.1
+
+###
